@@ -20,8 +20,8 @@ const Footer = () => {
                     <div>
                         <h2 className="text-2xl font-semibold mb-2">Healthcare</h2>
                         <p className="text-sm">
-                            Copyright © <span>{currentYear}</span> BRIX Templates<br />
-                            | All Rights Reserved
+                            Copyright © <span>{currentYear}</span><br />
+                            All Rights Reserved
                         </p>
                     </div>
                 </div>
